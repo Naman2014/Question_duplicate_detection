@@ -1,7 +1,5 @@
 # Project 8. Question similarity.
 
-This repository is an implementation of the Question Duplicacy detection model developed for [Extramarks Ltd](https://www.extramarks.com). Demonstration video [here](https://www.youtube.com/watch?v=loh0_-7XLW4).
-
 ### Pipeline of the model
 
 <img src="./Project-8-workflow.drawio.svg">
